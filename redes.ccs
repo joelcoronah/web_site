@@ -1,0 +1,4 @@
+.red{
+	position:fixed;
+	top:200px;
+}
